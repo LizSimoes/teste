@@ -52,14 +52,14 @@ export default function Contact() {
             </a>
             <a
               href="/about"
-              className="text-gray-800 font-bold hover:text-gray-400 duration-300"
+              className="text-gray-800  hover:text-gray-400 duration-300"
               onClick={() => setOpen(false)}
             >
               Sobre mim
             </a>
             <a
               href="/contact"
-              className="text-gray-800 hover:text-gray-400 duration-300"
+              className="text-gray-800 font-bold hover:text-gray-400 duration-300"
               onClick={() => setOpen(false)}
             >
               Contato

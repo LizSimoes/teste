@@ -49,14 +49,14 @@ export default function Home() {
           <div className="absolute top-16 left-0 w-full bg-white flex flex-col items-center py-6 gap-6 shadow-lg md:hidden">
             <a
               href="/"
-              className="text-gray-800 hover:text-gray-400 duration-300"
+              className="text-gray-800 font-bold hover:text-gray-400 duration-300"
               onClick={() => setOpen(false)}
             >
               Início
             </a>
             <a
               href="/about"
-              className="text-gray-800 font-bold hover:text-gray-400 duration-300"
+              className="text-gray-800 hover:text-gray-400 duration-300"
               onClick={() => setOpen(false)}
             >
               Sobre mim
