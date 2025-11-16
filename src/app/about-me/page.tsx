@@ -22,7 +22,7 @@ export default function AboutMe() {
             Início
           </a>
           <a
-            href="/about"
+            href="/about-me"
             className="text-gray-800 font-bold hover:text-gray-400 duration-300"
           >
             Sobre mim

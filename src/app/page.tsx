@@ -55,7 +55,7 @@ export default function Home() {
               Início
             </a>
             <a
-              href="/about"
+              href="/about-me"
               className="text-gray-800 hover:text-gray-400 duration-300"
               onClick={() => setOpen(false)}
             >
