@@ -22,13 +22,13 @@ export default function Contact() {
           </a>
           <a
             href="/"
-            className="text-gray-800 font-bold hover:text-gray-400 duration-300"
+            className="text-gray-800 hover:text-gray-400 duration-300"
           >
             Sobre mim
           </a>
           <a
             href="/contact"
-            className="text-gray-800 hover:text-gray-400 duration-300"
+            className="text-gray-800 font-bold hover:text-gray-400 duration-300"
           >
             Contato
           </a>

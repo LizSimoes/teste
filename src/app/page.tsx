@@ -20,13 +20,13 @@ export default function Home() {
         <div className="hidden md:flex gap-6">
           <a
             href="/"
-            className="text-gray-800 hover:text-gray-400 duration-300"
+            className="text-gray-800 font-bold hover:text-gray-400 duration-300"
           >
             Início
           </a>
           <a
             href="/about-me"
-            className="text-gray-800 font-bold hover:text-gray-400 duration-300"
+            className="text-gray-800 hover:text-gray-400 duration-300"
           >
             Sobre mim
           </a>
